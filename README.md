@@ -6,10 +6,10 @@
 
 ## 🎯 Purpose
 This repository documents a complete Vue.js learning path, featuring:
-- **Progressive learning** from fundamentals to advanced patterns
-- **Hands-on projects** with increasing complexity
-- **Real-world concepts** like authentication, routing, and state management
-- **Modern practices** using Composition API and Vue ecosystem tools
+- Progressive learning from fundamentals tadvanced patter
+- Hands-on projects with increasing complexity
+- Real-world concepts like authenticatn, routing, a state management
+- Modern practices using CompositionPI and Vue osystem tools
 
 ## 📂 Repository Structure
 ```text
