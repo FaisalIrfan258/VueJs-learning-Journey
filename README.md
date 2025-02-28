@@ -4,15 +4,15 @@
 
 > Structured path to master Vue.js development through practical examples and projects
 
-## 🎯 Purpose
+ 🎯 Purpose
 This repository documents a complete Vue.js learning path, featuring:
 - Progressive learning from fundamentals tadvanced patter
 - Hands-on projects with increasing complexity
 - Real-world concepts like authenticatn, routing, a state management
 - Modern practices using CompositionPI and Vue osystem tools
 
-## 📂 Repository Structure
-```text
+📂 Repository Structure
+
 vue-js-journey/
 ├── gs-*/             # Getting Started fundamentals
 ├── basics-*/         # Core Vue concepts (data binding, events, computed properties)
